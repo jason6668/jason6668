@@ -18,18 +18,6 @@
 - 信条很简单：**想法落地为产品，产品经得起手机端验收**
 - 常年折腾 `Cloudflare` / `Vercel` 边缘部署、自动化运维与 AI 协作开发
 
-#### 正在运营的生态
-
-| 产品 | 说明 | 入口 |
-| --- | --- | --- |
-| JM 社区 | 自研论坛，等级 / 鸡腿 / 避雷库 | [bbs.8818618.xyz](https://bbs.8818618.xyz) |
-| 马老师专属博客 | Hexo + Qexo 深度改造 | [blog.8818618.xyz](https://blog.8818618.xyz) |
-| 马老师专属直播 | 多平台聚合直播站 | [zb.8818618.xyz](https://zb.8818618.xyz) |
-| 马老师专属 TV | 影视聚合 + 移动端适配 | [tv.8818618.xyz](https://tv.8818618.xyz) |
-| 马老师专属聊天 | 基于 Cloudflare 全栈自部署聊天 | [chat.688650.xyz](https://chat.688650.xyz) |
-| 马老师专属新闻热点 | TrendRadar 热榜融合站 | [newsma.8818618.xyz](https://newsma.8818618.xyz) |
-| 马老师专属音乐 | 零服务器音乐站 | [music.8818618.xyz](https://music.8818618.xyz) |
-
 #### 技术栈
 
 <div align="center">
