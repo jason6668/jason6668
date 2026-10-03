@@ -4,9 +4,7 @@
 
 ### 一人成军，把想法一个个做成上线的产品
 
-[![博客](https://img.shields.io/badge/Blog-%E9%A9%AC%E8%80%81%E5%B8%88%E5%8D%9A%E5%AE%A2-0e1117?style=for-the-badge&logo=hexo&logoColor=white)](https://blog.8818618.xyz)
-[![社区](https://img.shields.io/badge/Community-JM%20%E7%A4%BE%E5%8C%BA-0e1117?style=for-the-badge&logo=discourse&logoColor=white)](https://bbs.8818618.xyz)
-[![邮箱](https://img.shields.io/badge/Email-ma%408818618.xyz-0e1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ma@8818618.xyz)
+[![Telegram](https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91-0e1117?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sisumasanBot)
 
 </div>
 
