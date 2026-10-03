@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=%E9%A9%AC%E8%80%81%E5%B8%88&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%20%C2%B7%20%E5%85%A8%E6%A0%88%E5%AE%9E%E8%B7%B5%E8%80%85%20%C2%B7%20%E7%94%9F%E6%80%81%E6%90%AD%E5%BB%BA%E4%B8%AD&descAlignY=66&descSize=16" width="100%" alt="header" />
 
+<img src="https://raw.githubusercontent.com/jason6668/jason6668/main/assets/bubbles.gif" width="100%" alt="bubbles" />
+
 ### 一人成军，把想法一个个做成上线的产品
 
 [![Telegram](https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91-0e1117?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sisumasanBot)
