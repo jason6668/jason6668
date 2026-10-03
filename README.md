@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jason6668/jason6668/main/assets/banner.gif" width="100%" alt="马老师" />
+<img src="https://raw.githubusercontent.com/jason6668/jason6668/main/assets/banner.gif" width="100%" alt="Teacher Ma" />
 
-### 一人成军，把想法一个个做成上线的产品
+### One person, an entire product ecosystem — built, shipped, and kept alive
 
-[![Telegram](https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91-0B3D38?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sisumasanBot)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-0B3D38?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sisumasanBot)
 
 </div>
 
 ---
 
-#### 关于我
+#### About Me
 
-- 独立开发者，长期一个人维护一整套线上生态：**内容、社区、直播、影视、音乐、工具**全部自研部署
-- 信条很简单：**想法落地为产品，产品经得起手机端验收**
-- 常年折腾 `Cloudflare` / `Vercel` 边缘部署、自动化运维与 AI 协作开发
+- Indie developer running a whole online ecosystem solo: **content, community, live streaming, video, music, and tools** — all self-built and self-hosted
+- Simple rule: **turn ideas into products, and make sure they survive real-world (mobile-first) use**
+- Day-to-day: edge deployment on `Cloudflare` / `Vercel`, automated ops, and AI-assisted development
 
-#### 技术栈
+#### Tech Stack
 
 <div align="center">
 
@@ -31,7 +31,7 @@
 
 </div>
 
-#### 数据一览
+#### GitHub Stats
 
 <div align="center">
 
